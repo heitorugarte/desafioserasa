@@ -13,7 +13,7 @@ Na tela inicial existem dois botões: Carregar Dados e Consultar Ranking
    
    Onde: '+3' indica que a empresa em questão tem 3 Notas Fiscais e '-2' que a empresa tem 2 débitos em aberto.
  
- Caso você queira, na tela de Carregar Dados, é possível clicar no botão Gerar Entrada para que o sistema gere um arquivo de entrada com valores aleatórios para fins de teste. Este arquivo será gerado e salvo na pasta 'entradas' na raiz do projeto.
+ Caso seja do interesse do usuário, na tela de Carregar Dados é possível clicar no botão Gerar Entrada para que o sistema gere um arquivo de entrada com valores aleatórios para fins de teste. Este arquivo será gerado e salvo na pasta 'entradas' na raiz do projeto.
  Após selecionar um arquivo de entrada, o mesmo será processado e os valores já estarão atualizados para consulta.
  
  --> Consultar Ranking: Este botão abrirá uma tela adicional onde o usuário pode visualizar o estado atual das empresas cadastradas no sistema. Para fazer a consulta efetivamente, basta clicar no botão "Consultar" para gerar o relatório.
