@@ -2,11 +2,11 @@
 Olá!
 Este repositório é referente ao desafio proposto pelo processo seletivo do SERASA com a PROWAY.
 
-Tecnologias utilizadas: Python 3.8.3 (linguagem) e tkinter (interface gráfica)
+Tecnologias utilizadas: Python 3.8.3 (linguagem) e tkinter (interface gráfica).
 
-Ao executar o projeto, o mesmo vai gerar automaticamente 18 empresas com a sua pontuação neutra (50) como descrito na especificação do projeto.
+Ao executar o projeto, o mesmo irá gerar automaticamente 18 empresas com a sua pontuação neutra (50) como descrito na especificação do projeto.
 
-Na tela inicial existem dois botões: Carregar Dados e Consultar Ranking
+Na tela inicial existem dois botões: Carregar Dados e Consultar Ranking.
 
   --> Carregar Dados: Este botão abrirá uma tela adicional onde o usuário deve selecionar uma das empresas já cadastradas no sistema através da ComboBox presente. Após selecionar uma das opções, basta clicar em Carregar Dados para selecionar um arquivo .TXT de entrada, que contém o seguinte formato:
   
