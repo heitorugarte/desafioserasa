@@ -5,7 +5,7 @@ Este repositório é referente ao desafio proposto pelo processo seletivo do SER
 Tecnologias utilizadas: Python 3.8.3 (linguagem) e tkinter (interface gráfica).
 
 Para rodar o projeto, execute o arquivo Main.py (pode ser feito através do comando "py -u Main.py" dentro do diretório /src)
-    --> Inclui um arquivo .BAT na pasta /src que executa este comando automaticamente.
+    --> Inclui um arquivo .BAT na pasta /src que executa este comando automaticamente (Somente para Windows).
 
 Ao executar o projeto, o mesmo irá gerar automaticamente 18 empresas com a sua pontuação neutra (50) como descrito na especificação do projeto.
 
