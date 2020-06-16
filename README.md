@@ -1,6 +1,6 @@
 # desafioserasa
 Olá!
-Este repositório é referente ao desafio proposto pelo processo seletivo do SERASA.
+Este repositório é referente ao desafio proposto pelo processo seletivo do SERASA com a PROWAY.
 Tecnologias utilizadas: Python 3.8.3 (linguagem) e tkinter (interface gráfica)
 
 Ao executar o projeto, o mesmo vai gerar automaticamente 18 empresas com a sua pontuação neutra (50) como descrito na especificação do projeto.
