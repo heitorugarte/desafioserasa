@@ -18,7 +18,7 @@ Na tela inicial existem dois botões: Carregar Dados e Consultar Ranking.
  Após selecionar um arquivo de entrada, o mesmo será processado e os valores já estarão atualizados para consulta.
  
  --> Consultar Ranking: Este botão abrirá uma tela adicional onde o usuário pode visualizar o estado atual das empresas cadastradas no sistema. Para fazer a consulta basta clicar no botão "Consultar" para gerar o relatório.
- Este relatório exibe de forma ordenada e decrescente o ranking das empresas cadastradas de acordo com sua pontuação calculada com base nas entradas efetuadas. Caso nenhuma entrada tenha sido feita, o valor exibido será o valor padrão inicial (50).
+ Este relatório exibe de forma ordenada e decrescente o ranking das empresas cadastradas de acordo com sua pontuação calculada com base nas entradas efetuadas, assim como o número de notas fiscais e débitos da empresa em questão. Caso nenhuma entrada tenha sido feita, o valor exibido será o valor padrão inicial (50).
  
 O arquivo de teste unitário se encontra na pasta 'src', com nome de 'Empresas_test.py'. Este arquivo pode ser executado para avaliar o funcionamento das principais funções do sistema.
 
