@@ -10,7 +10,8 @@ Na tela inicial existem dois botões: Carregar Dados e Consultar Ranking
   --> Carregar Dados: Este botão abrirá uma tela adicional onde o usuário deve selecionar uma das empresas já cadastradas no sistema através da ComboBox presente. Após selecionar uma das opções, basta clicar em Carregar Dados para selecionar um arquivo .TXT de entrada, que contém o seguinte formato:
   
     +3,-2
-      Onde: '+3' indica que a empresa em questão tem 3 Notas Fiscais e '-2' que a empresa tem 2 débitos em aberto.
+   
+   Onde: '+3' indica que a empresa em questão tem 3 Notas Fiscais e '-2' que a empresa tem 2 débitos em aberto.
  
  Caso você queira, na tela de Carregar Dados, é possível clicar no botão Gerar Entrada para que o sistema gere um arquivo de entrada com valores aleatórios para fins de teste. Este arquivo será gerado e salvo na pasta 'entradas' na raiz do projeto.
  Após selecionar um arquivo de entrada, o mesmo será processado e os valores já estarão atualizados para consulta.
